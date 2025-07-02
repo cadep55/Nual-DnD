@@ -1,7 +1,5 @@
 # Nual-DnD
 Nual the keeper of the ancient tomes.
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
